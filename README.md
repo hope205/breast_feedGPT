@@ -3,8 +3,7 @@
 breast_feedGPT is a chatbot application developed to provide answers to questions commonly asked by nursing mothers regarding breastfeeding and other related topics. 
 The project includes both the chatbot model and a web interface for easy interaction. I made use of artilces about breastfeeding from Babymigo's site and a few other blogs that 
 has worthy contents to form my knowldege base for the chatbot
-
-To interact with the chatbot, check out this link - https://hope205-breast-feedgpt-app-s2f3zf.streamlit.app/
+To see the chatbot in action, check out this demo -https://youtu.be/gr9Ztli4RZk
 
 ## Features
 - Utilizes the Langachain and chatgpt APIs to power the chatbot functionality.
